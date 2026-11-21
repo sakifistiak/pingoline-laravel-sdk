@@ -18,8 +18,8 @@
     "homepage": "https://pingoline.com",
     "support": {
         "email": "hello@pingoline.com",
-        "issues": "https://github.com/pingoline/laravel-sdk/issues",
-        "source": "https://github.com/pingoline/laravel-sdk"
+        "issues": "https://github.com/sakifistiak/pingoline-laravel-sdk/issues",
+        "source": "https://github.com/sakifistiak/pingoline-laravel-sdk"
     },
     "authors": [
         {
